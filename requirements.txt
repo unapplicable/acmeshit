@@ -1,0 +1,5 @@
+dnslib==0.9.25
+docutils==0.21.2
+lockfile==0.12.2
+python-daemon==3.0.1
+setuptools==72.2.0
